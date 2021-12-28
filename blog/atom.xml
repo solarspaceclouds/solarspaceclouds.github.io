@@ -7,6 +7,7 @@ layout: feed
 	<title>Wei May's Blog</title>
 	<link href="http://solarspaceclouds.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://solarspaceclouds.github.io/blog"/>
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://solarspaceclouds.github.io/blog</id>
 	<author>
